@@ -1,2 +1,6 @@
 # Ignore App Config
 App.config
+
+.bin
+
+.obj
